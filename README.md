@@ -49,8 +49,9 @@ pip install pandas pyyaml jsonschema tqdm
 
 ## Resources
 - [NOAA Fisheries Pacific Islands Fisheries Science Center (PIFSC)](https://www.fisheries.noaa.gov/region/pacific-islands)
-- [NOAA InPort Metadata Catalog](https://www.fisheries.noaa.gov/inport/)
-- [NOAA NCEI Ocean Archive](https://www.ncei.noaa.gov/)
+- [NOAA InPort Metadata Catalog for PIFSC ESD ARP SfM](https://www.fisheries.noaa.gov/inport/item/63090)
+- [NOAA NCEI OER Video Portal](https://www.ncei.noaa.gov/access/ocean-exploration/video/): find archived imagery by toggling for 'NCRMP'
+- [NOAA PIFSC ESD Archipelagic Research Program](https://noaa-pifsc.github.io/esd-arp-resources/)
 
 ## Version Control Platform
 - Git
